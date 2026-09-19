@@ -1,4 +1,4 @@
-// Créditos finales
+ // Créditos finales
 
 let equipo = "TuNombreDeEquipo"; // pon el nombre de tu equipo
 
